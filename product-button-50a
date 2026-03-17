@@ -1,0 +1,87 @@
+<div class="product-container">
+  <div class="product-list">
+  
+	<div class="product-item">
+      <a href="url-produk">
+        <button class="product-button">
+          <img src="url-gambar" class="product-image"/>
+          <p class="product-name">9. Nama Produk</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="url-produk">
+        <button class="product-button">
+          <img src="url-gambar" class="product-image"/>
+          <p class="product-name">8. Nama Produk</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="url-produk">
+        <button class="product-button">
+          <img src="url-gambar" class="product-image"/>
+          <p class="product-name">7. Nama Produk</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="url-produk">
+        <button class="product-button">
+          <img src="url-gambar" class="product-image"/>
+          <p class="product-name">6. Nama Produk</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="url-produk">
+        <button class="product-button">
+          <img src="url-gambar" class="product-image"/>
+          <p class="product-name">5. Nama Produk</p>
+        </button>
+      </a>
+    </div>
+	
+    <div class="product-item">
+      <a href="url-produk">
+        <button class="product-button">
+          <img src="url-gambar" class="product-image"/>
+          <p class="product-name">4. Nama Produk</p>
+        </button>
+      </a>
+    </div>
+	
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/BNadf6IOZ">
+        <button class="product-button">
+          <img src="https://bengkelprint.co.id/wp-content/uploads/2020/06/mesin-press-low-price-38-x-38-cm-buka.webp" class="product-image"/>
+          <p class="product-name">3. Mesin Press Sablon Kaos 38x38</p>
+        </button>
+      </a>
+    </div>
+
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/2VlVQ6xqFA">
+        <button class="product-button">
+          <img src="https://img.id.my-best.com/product_images/13a4122fbc802d3289cfcb1c5303c484.png?ixlib=rails-4.3.1&amp;q=70&amp;lossless=0&amp;w=800&amp;h=800&amp;fit=clip&amp;s=b11cc24a03b99dd17a3ebed6b3d37134" class="product-image"/>
+          <p class="product-name">2. Mesin Laminating 5in1</p>
+        </button>
+      </a>
+    </div>
+
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/6KyDzNui8L">
+        <button class="product-button">
+          <img src="https://img.lazcdn.com/g/p/157718f30fc5d381414a8f673cdd5922.png_720x720q80.png" class="product-image"/>
+          <p class="product-name">1. Alas/ Cutting Mat A1/A2/A3/A4</p>
+        </button>
+      </a>
+    </div>
+	
+	
+  </div>
+</div>
