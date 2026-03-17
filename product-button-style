@@ -1,81 +1,81 @@
 <style>
+  /* Menghindari elemen keluar dari lebar layar */
+  * {
+    box-sizing: border-box;
+  }
+
   .product-container {
     width: 100%;
-    margin: 20px 0;
-  }
-
-  .spoiler-title {
-    display: block;
-    background-color: #fc0303;
-    color: white;
+    max-width: 1200px; /* Batas maksimal agar tidak terlalu lebar di PC */
+    margin: 0 auto;
     padding: 10px;
-    text-align: center;
-    font-size: 18px;
-    font-weight: bold;
-    cursor: pointer;
-    border: none;
-    border-radius: 5px;
-  }
-
-  .spoiler-title:hover {
-    background-color: #fc0303;
+    font-family: sans-serif;
   }
 
   .product-list {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    padding: 10px;
-    width: 100%; /* Tombol akan memenuhi lebar halaman */
-    display: none; /* Initially hidden */
+    display: grid;
+    /* Membuat kolom otomatis: minimal 250px, maksimal mengisi sisa ruang */
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 12px;
+    width: 100%;
   }
 
   .product-item {
-    display: flex;
-    justify-content: center; /* Menyusun item agar tombol berada di tengah */
-    align-items: center;
-    width: 100%; /* Tombol mengikuti lebar halaman */
+    width: 100%;
+  }
+
+  .product-item a {
+    text-decoration: none;
+    display: block;
+    width: 100%;
   }
 
   .product-button {
     display: flex;
     align-items: center;
-    justify-content: flex-start; /* Mengatur gambar di kiri dan nama di tengah */
-    width: 100%; /* Tombol memanjang sesuai lebar halaman */
+    width: 100%;
+    min-height: 80px; /* Menjaga tinggi tombol tetap seragam */
     background-color: #fc0303;
     color: white;
-    padding: 15px;
+    padding: 10px 15px;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
     cursor: pointer;
-    text-decoration: none;
+    transition: transform 0.2s, background-color 0.2s;
   }
 
   .product-button:hover {
-    background-color: #F6E6D7;
+    background-color: #d10202;
+    transform: translateY(-2px); /* Efek sedikit mengangkat saat disentuh */
   }
 
   .product-image {
-    width: 50px;
-    height: 50px;
-    margin-right: 10px;
+    width: 55px;
+    height: 55px;
+    flex-shrink: 0; /* Gambar tidak akan gepeng */
     object-fit: cover;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 12px;
   }
 
   .product-name {
-    flex-grow: 1; /* Membuat nama produk di tengah tombol */
-    text-align: center; /* Menjaga teks tetap berada di tengah */
-    font-size: 16px;
+    flex-grow: 1;
+    text-align: left; /* Teks rata kiri agar lebih rapi di samping gambar */
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.3;
+    margin: 0;
   }
-</style>
 
-<script>
-  function toggleSpoiler() {
-    var productList = document.getElementById("product-list");
-    if (productList.style.display === "none" || productList.style.display === "") {
-      productList.style.display = "flex"; // Show the product list
-    } else {
-      productList.style.display = "none"; // Hide the product list
+  /* Responsif khusus HP layar sangat kecil */
+  @media (max-width: 320px) {
+    .product-name {
+      font-size: 12px;
+    }
+    .product-image {
+      width: 45px;
+      height: 45px;
     }
   }
-</script>
+</style>
