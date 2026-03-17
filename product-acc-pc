@@ -1,65 +1,30 @@
 <div class="product-container">
   <div class="product-list">
   
-	<div class="product-item">
-      <a href="url-produk">
+
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/3fxSvMQRCA">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">9. Nama Produk</p>
-        </button>
-      </a>
-    </div>
-	
-	<div class="product-item">
-      <a href="url-produk">
-        <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">8. Nama Produk</p>
-        </button>
-      </a>
-    </div>
-	
-	<div class="product-item">
-      <a href="url-produk">
-        <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">7. Nama Produk</p>
-        </button>
-      </a>
-    </div>
-	
-	<div class="product-item">
-      <a href="url-produk">
-        <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">6. Nama Produk</p>
-        </button>
-      </a>
-    </div>
-	
-	<div class="product-item">
-      <a href="url-produk">
-        <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">5. Nama Produk</p>
+          <img src="https://down-aka-id.img.susercontent.com/id-11134207-7ra0h-mdv6bmync6ia1b.webp" class="product-image"/>
+          <p class="product-name">4. Set Keyboard Gaming K98 Gaming E-sports</p>
         </button>
       </a>
     </div>
 	
     <div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/Lh0xARTVf">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">4. Nama Produk</p>
+          <img src="https://down-aka-id.img.susercontent.com/id-11134207-8224r-mi19o4jywmir77.webp" class="product-image"/>
+          <p class="product-name">3. Rechargeable Wireless Keyboard Mouse 1 Set </p>
         </button>
       </a>
     </div>
-	
+
     <div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/4AtjW38oEf">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">3. Nama Produk</p>
+          <img src="https://down-aka-id.img.susercontent.com/id-11134207-7rasf-m3hfb78ftx08b9.webp" class="product-image"/>
+          <p class="product-name">2. USB 3.0 Casing Hardisk 2.5 inch Transparent</p>
         </button>
       </a>
     </div>
@@ -68,16 +33,7 @@
       <a href="url-produk">
         <button class="product-button">
           <img src="url-gambar" class="product-image"/>
-          <p class="product-name">2. Nama Produk</p>
-        </button>
-      </a>
-    </div>
-
-    <div class="product-item">
-      <a href="url-produk">
-        <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">1. Nama Produk</p>
+          <p class="product-name">1. Rexus SH600 Keyboard Gaming Mechanical 65% Layout</p>
         </button>
       </a>
     </div>
