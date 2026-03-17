@@ -1,0 +1,22 @@
+<div class="product-container">
+  <button class="spoiler-title" onclick="toggleSpoiler()">Etalase A: Produk Alat Percetakan</button>
+  <div class="product-list" id="product-list">
+    <div class="product-item">
+      <a href="https://example.com">
+        <button class="product-button">
+          <img src="image-url" class="product-image"/>
+          <p class="product-name">Nama Produk</p>
+        </button>
+      </a>
+    </div>
+
+    <div class="product-item">
+      <a href="https://example.com">
+        <button class="product-button">
+          <img src="image-url" class="product-image"/>
+          <p class="product-name">Nama Produk</p>
+        </button>
+      </a>
+    </div>
+  </div>
+</div>
