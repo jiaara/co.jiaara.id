@@ -1,6 +1,125 @@
 <div class="product-container">
   <div class="product-list">
-  
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/BNbMW4ukX">
+        <button class="product-button">
+          <img src="https://sc04.alicdn.com/kf/H6bfeddf767d84ddd9b1e33c0d703a856V.jpg" class="product-image"/>
+          <p class="product-name">22. Round Corner Cutter 3 in 1 Pemotong Sudut Corner</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/6VHestm3DZ">
+        <button class="product-button">
+          <img src="https://rhinotec.co.id/wp-content/uploads/2020/10/RCC01-510x510.jpg.webp" class="product-image"/>
+          <p class="product-name">21. Circle Cutter Rhino Diameter 24-153mm</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/3LKcTdwZrr">
+        <button class="product-button">
+          <img src="https://img.lazcdn.com/g/p/2e54d67504b087ba2bb04bc7c12bc82e.jpg_960x960q80.jpg_.webp" class="product-image"/>
+          <p class="product-name">20. Pembolong Kertas 6 Lubang</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/9pY6DWz5fC">
+        <button class="product-button">
+          <img src="https://stationary.co.id/cdn/shop/products/joyko-pelubang-kertas-2-lubang-no-30xl-office-stationery-toko-atk_315_1024x1024.jpg?v=1539983181" class="product-image"/>
+          <p class="product-name">19. Pembolong Kertas 2 Lubang</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/1LZY5sFPks">
+        <button class="product-button">
+          <img src="https://imgx.brdcdn.com/imgx/500/aW1hZ2VzLnRva29wZWRpYS5uZXQvaW1nL2NhY2hlLzcwMC9wcm9kdWN0LTEvMjAyMS8xLzEzLzE0NDI1My8xNDQyNTNfYTAzZGI0MmMtYThmOS00MzUxLThhZGYtMzNmODYzMTA0Njdh.jpeg" class="product-image"/>
+          <p class="product-name">18. Pembolong Kertas 1 Lubang</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/2g4vg7NDjq">
+        <button class="product-button">
+          <img src="https://down-aka-id.img.susercontent.com/id-11134207-7r991-lmfv7098u5fr61.webp" class="product-image"/>
+          <p class="product-name">17. Pengaris Besi 30 cm (Lentur)</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/7fTbdC6wdv">
+        <button class="product-button">
+          <img src="https://down-aka-id.img.susercontent.com/id-11134207-7r991-lmfv7098u5fr61.webp" class="product-image"/>
+          <p class="product-name">16. Pengaris Besi 30 cm (Tebal)</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/gJrI7cuht">
+        <button class="product-button">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD19BnQeLvQLMsPPKeoYfDm1Z3-aPwSFzv8A&amp;s" class="product-image"/>
+          <p class="product-name">15. Printer Wifi Canon G3730 (All-in-One)</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/6VHeElnjMF">
+        <button class="product-button">
+          <img src="https://plazait.co.id/uploads/products/gallery/l3211-1.jpg" class="product-image"/>
+          <p class="product-name">14. Printer Epson L3211 (All-in-One)</p>
+        </button>
+      </a>
+    </div>
+	
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/7fTbbyp7RQ">
+        <button class="product-button">
+          <img src="https://down-id.img.susercontent.com/file/00647a01521a91a1f3679c0f010dad3f" class="product-image"/>
+          <p class="product-name">13. Mesin Cutting Sticker Jinka YS 360 A3+</p>
+        </button>
+      </a>
+    </div>
+	
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/9pY6BhwPNL">
+        <button class="product-button">
+          <img src="https://upload.jaknot.com/2024/09/images/products/0f1c60/original/dcbadge-mesin-press-pin-bros-peniti-bulat-rotating-button-maker-dc-109.jpg" class="product-image"/>
+          <p class="product-name">12. Press Pin</p>
+        </button>
+      </a>
+    </div>
+
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/2VlVS26UG6">
+        <button class="product-button">
+          <img src="https://siplah.blibli.com/data/images/SAPR-0049-00038/c2777c01-2b21-4f82-980b-57282741aa62.jpg" class="product-image"/>
+          <p class="product-name">11. Mesin Press Sablon Mug/ Gelas/ Tumbler</p>
+        </button>
+      </a>
+    </div>
+
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/AUnmyZtXrm">
+        <button class="product-button">
+          <img src="https://stationary.co.id/cdn/shop/products/origin-mesin-pvc-card-cutter-plong-id-occ-55pvc-office-stationery-857_1024x1024.jpg?v=1616772621" class="product-image"/>
+          <p class="product-name">10. Pemotong ID Card</p>
+        </button>
+      </a>
+    </div>
+	
+	
+
 	<div class="product-item">
       <a href="https://s.shopee.co.id/8APsC8t4SN">
         <button class="product-button">
