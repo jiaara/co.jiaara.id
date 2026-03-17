@@ -1,0 +1,33 @@
+<div class="product-container">
+  <div class="product-list">
+
+
+	<div class="product-item">
+      <a href="url-produk">
+        <button class="product-button">
+          <img src="url-gambar" class="product-image"/>
+          <p class="product-name">3. Nama Produk</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="url-produk">
+        <button class="product-button">
+          <img src="url-gambar" class="product-image"/>
+          <p class="product-name">2. Nama Produk</p>
+        </button>
+      </a>
+    </div>
+	
+    <div class="product-item">
+      <a href="url-produk">
+        <button class="product-button">
+          <img src="url-gambar" class="product-image"/>
+          <p class="product-name">1. Nama Produk</p>
+        </button>
+      </a>
+    </div>
+
+  </div>
+</div>
