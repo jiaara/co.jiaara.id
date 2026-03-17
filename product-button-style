@@ -1,0 +1,81 @@
+<style>
+  .product-container {
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .spoiler-title {
+    display: block;
+    background-color: #fc0303;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+
+  .spoiler-title:hover {
+    background-color: #fc0303;
+  }
+
+  .product-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    width: 100%; /* Tombol akan memenuhi lebar halaman */
+    display: none; /* Initially hidden */
+  }
+
+  .product-item {
+    display: flex;
+    justify-content: center; /* Menyusun item agar tombol berada di tengah */
+    align-items: center;
+    width: 100%; /* Tombol mengikuti lebar halaman */
+  }
+
+  .product-button {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; /* Mengatur gambar di kiri dan nama di tengah */
+    width: 100%; /* Tombol memanjang sesuai lebar halaman */
+    background-color: #fc0303;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .product-button:hover {
+    background-color: #F6E6D7;
+  }
+
+  .product-image {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    object-fit: cover;
+  }
+
+  .product-name {
+    flex-grow: 1; /* Membuat nama produk di tengah tombol */
+    text-align: center; /* Menjaga teks tetap berada di tengah */
+    font-size: 16px;
+  }
+</style>
+
+<script>
+  function toggleSpoiler() {
+    var productList = document.getElementById("product-list");
+    if (productList.style.display === "none" || productList.style.display === "") {
+      productList.style.display = "flex"; // Show the product list
+    } else {
+      productList.style.display = "none"; // Hide the product list
+    }
+  }
+</script>
