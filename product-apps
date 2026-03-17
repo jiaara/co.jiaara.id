@@ -2,82 +2,91 @@
   <div class="product-list">
   
 	<div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/6AeoSL5T5r">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">9. Nama Produk</p>
+          <img src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//101/MTA-7581674/idm_lisensi_key_internet_download_manager__-idm-_-_original_-_lifetime_full01_oaf0mgpn.jpg" class="product-image"/>
+          <p class="product-name">10. Internet Download Manager (Seumur Hidup)</p>
         </button>
       </a>
     </div>
 	
 	<div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/4fq0fXya5k">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">8. Nama Produk</p>
+          <img src="https://images.g2a.com/300x400/1x1x1/wondershare-filmora-15-video-editor-pc-1-device-lifetime-wondershare-key-global-i10000513222002/5b460ad74022474bb2e96641" class="product-image"/>
+          <p class="product-name">9. Wondershare Filmora 15 (Seumur Hidup)</p>
         </button>
       </a>
     </div>
 	
 	<div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/1gCP5jV5AQ">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">7. Nama Produk</p>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIt89d9sIFTez_sKT0h9uXWNV1dYOyIDUZA&s" class="product-image"/>
+          <p class="product-name">8. Winrar Pro 2026</p>
         </button>
       </a>
     </div>
 	
 	<div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/3qGtfWjDBe">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">6. Nama Produk</p>
+          <img src="https://iconape.com/wp-content/png_logo_vector/nitro-pro-pdf-logo.png" class="product-image"/>
+          <p class="product-name">7. Nitro PDF Pro 13</p>
         </button>
       </a>
     </div>
 	
 	<div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/6fb4sDl9WA">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">5. Nama Produk</p>
+          <img src="https://down-aka-id.img.susercontent.com/id-11134207-7rbka-ma9wy357c8gqa6.webp" class="product-image"/>
+          <p class="product-name">6. [PAKET HEMAT] Windows + Office All in One Original</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/5q1xsPLRbu">
+        <button class="product-button">
+          <img src="https://stmikkomputama.ac.id/wp-content/uploads/2025/09/microsoft-office-logo-png_seeklogo-406239-seeklogo.com-2.png" class="product-image"/>
+          <p class="product-name">5. Office 2024 Pro Plus Original</p>
         </button>
       </a>
     </div>
 	
     <div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/8KjIqzL8AH">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">4. Nama Produk</p>
+          <img src="https://stmikkomputama.ac.id/wp-content/uploads/2025/09/microsoft-office-logo-png_seeklogo-406239-seeklogo.com-2.png" class="product-image"/>
+          <p class="product-name">4. Office 2019 Pro Plus Original</p>
         </button>
       </a>
     </div>
 	
     <div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/4fq0UEiICg">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">3. Nama Produk</p>
+          <img src="https://stmikkomputama.ac.id/wp-content/uploads/2025/09/microsoft-office-logo-png_seeklogo-406239-seeklogo.com-2.png" class="product-image"/>
+          <p class="product-name">3. Office 2016 Pro Plus Original</p>
         </button>
       </a>
     </div>
 
     <div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/AUnnQo8Btc">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">2. Nama Produk</p>
+          <img src="https://cdn-icons-png.freepik.com/256/2504/2504927.png?semt=ais_white_label" class="product-image"/>
+          <p class="product-name">2. OS Windows 10/11 Pro</p>
         </button>
       </a>
     </div>
 
     <div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/8pfZRUYCLG">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">1. Nama Produk</p>
+          <img src="https://e7.pngegg.com/pngimages/561/836/png-clipart-coreldraw-computer-software-graphics-suite-others-miscellaneous-cdr-thumbnail.png" class="product-image"/>
+          <p class="product-name">1. CorelDraw 2017-2024</p>
         </button>
       </a>
     </div>
