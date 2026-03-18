@@ -1,83 +1,129 @@
 <div class="product-container">
   <div class="product-list">
-  
-	<div class="product-item">
-      <a href="url-produk">
-        <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">9. Nama Produk</p>
-        </button>
-      </a>
-    </div>
+	
 	
 	<div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/8081YV60Hi">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">8. Nama Produk</p>
-        </button>
-      </a>
-    </div>
-	
-	<div class="product-item">
-      <a href="url-produk">
-        <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">7. Nama Produk</p>
-        </button>
-      </a>
-    </div>
-	
-	<div class="product-item">
-      <a href="url-produk">
-        <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">6. Nama Produk</p>
-        </button>
-      </a>
-    </div>
-	
-	<div class="product-item">
-      <a href="url-produk">
-        <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">5. Nama Produk</p>
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-7qul5-lk0jxutvcdgb57.webp" class="product-image"/>
+          <p class="product-name">14. Standing Mirror sudut curve 130x35cm</p>
         </button>
       </a>
     </div>
 	
     <div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/2Vn50JCjmT">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">4. Nama Produk</p>
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-7rbk4-m6isg3lr0l2l06.webp" class="product-image"/>
+          <p class="product-name">13. Karpet Lantai Eropa Style Bahan Polyester Halus</p>
         </button>
       </a>
     </div>
 	
     <div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/9pZfjlYENu">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">3. Nama Produk</p>
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-7ra0r-md36hggdr5lja7.webp" class="product-image"/>
+          <p class="product-name">12. Karpet Lantai Eropa Style Bahan Polyester Halus</p>
         </button>
       </a>
     </div>
 
     <div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/1BHhPgrBys">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">2. Nama Produk</p>
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-82251-ml2yuw5y8b2f93.webp" class="product-image"/>
+          <p class="product-name">11. TV Digital TV Smart 32-43 inch 4K USB/HDMI/WLAN/WIFI</p>
         </button>
       </a>
     </div>
 
     <div class="product-item">
-      <a href="url-produk">
+      <a href="https://s.shopee.co.id/900Yk1AH9G">
         <button class="product-button">
-          <img src="url-gambar" class="product-image"/>
-          <p class="product-name">1. Nama Produk</p>
+          <img src="https://down-tx-id.img.susercontent.com/42192201ebe0a1529c9c8dd45bda4f5e.webp" class="product-image"/>
+          <p class="product-name">10. Power Bank Tenaga Surya 10000mah Dual Usb Led Flash</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/1BHhPR9tNB">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-7rbk3-m9336h9ya8sibc.webp" class="product-image"/>
+          <p class="product-name">9. Cairan Pembasmi Tikus Racun Tikus</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/10yHD024Ug">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-81ztj-mdxglk6vcv7kaf.webp" class="product-image"/>
+          <p class="product-name">8. CCTV Kamera 5MP 1080P v380pro IP66 waterproof</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/7VBkwrwG3s">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134211-7qul9-liihki77waox37.webp" class="product-image"/>
+          <p class="product-name">7. Sikat Sepatu Multifungsi dengan Lubang Detergen</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/9pZfj2H8sY">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-7rbk3-m7lzdyt0s7upbe.webp" class="product-image"/>
+          <p class="product-name">6. Wifi Reapeter 1200Mbps dual-band 2.4G</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/3qISZuntu5">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-7rbk1-marvealt34k9e8.webp" class="product-image"/>
+          <p class="product-name">5. PowerPort 2500W Power Strip Power Socket Charger</p>
+        </button>
+      </a>
+    </div>
+	
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/10yHCcXDNm">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-81ztn-mdy0h5zdi2v855.webp" class="product-image"/>
+          <p class="product-name">4. Kotak Sepatu Lipat</p>
+        </button>
+      </a>
+    </div>
+	
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/7VBkwSt9ns">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-8224x-mgni3gfl7mry5f.webp" class="product-image"/>
+          <p class="product-name">3. Alas Kamar Mandi Anti Slip</p>
+        </button>
+      </a>
+    </div>
+
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/1BHhOlDS7T">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-7r98o-lqehjq4fj5lq3f.webp" class="product-image"/>
+          <p class="product-name">2. Wallpaper Dinding 3D ​Motif Batu Bata Putih 70x77cm </p>
+        </button>
+      </a>
+    </div>
+
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/60Mx9akIou">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-7r98q-lv8cr504oh93c4.webp" class="product-image"/>
+          <p class="product-name">1. Wallpaper dinding VINYL Marble 30 x 60 cm</p>
         </button>
       </a>
     </div>
