@@ -1,7 +1,69 @@
 <div class="product-container">
   <div class="product-list">
   
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/7KsKmTFdPB">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-7r98s-lu7q45egarl70b.webp" class="product-image"/>
+          <p class="product-name">11. 8in1 Adapter Konektor Multifungsi HDMI 1.4 USB 100W</p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/3B2lom8rWj">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-7r98w-llwtv7x50rdab8.webp" class="product-image"/>
+          <p class="product-name">10. Mouse Wireless Gaming Rechargeable Baterai Type-C Fast Charging 1600DPI </p>
+        </button>
+      </a>
+    </div>
+	
+	<div class="product-item">
+      <a href="https://s.shopee.co.id/7fVBAvlLZe">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-7ra0q-mdvgp5b1ukqkb5.webp" class="product-image"/>
+          <p class="product-name">9. Royal Kludge RK N99 Black Mechanical Keyboard</p>
+        </button>
+      </a>
+    </div>
+	
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/9KdP9xzTH9">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134211-7ra0m-mbge1juixrbn0e.webp" class="product-image"/>
+          <p class="product-name">8. Kabel Ethernet berlapis emas Cat6 RJ45 100 Mbps</p>
+        </button>
+      </a>
+    </div>
+	
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/40bso7Enez">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-7rasm-m0fjorpoqzpj1b.webp" class="product-image"/>
+          <p class="product-name">7. PC All-in-One Baru Terbaru HD Super Tipis</p>
+        </button>
+      </a>
+    </div>
 
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/7KsKmBLSiO">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/id-11134207-81zti-mdzi5yqgp72bbf.webp" class="product-image"/>
+          <p class="product-name">6.  UHD 4k PC Webcam Laptop USB Camera with 360°</p>
+        </button>
+      </a>
+    </div>
+
+    <div class="product-item">
+      <a href="https://s.shopee.co.id/2Vn50w6CB0">
+        <button class="product-button">
+          <img src="https://down-tx-id.img.susercontent.com/e749198328d8a9a05239ee015d851573.webp" class="product-image"/>
+          <p class="product-name">5. Paket PC Lengkap Ram 16gb Free Wifi Online Game Desain</p>
+        </button>
+      </a>
+    </div>
+	
     <div class="product-item">
       <a href="https://s.shopee.co.id/3fxSvMQRCA">
         <button class="product-button">
